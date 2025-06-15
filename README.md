@@ -13,3 +13,4 @@ Trends in ADHD Symptoms and Heritability Estimates Over 30 Years
 
 - This script were created as part of a first-year internship project within the Research Master’s program in Genes in Behavior and Health at Vrije University Amsterdam.
 
+- For any further details regaridng the scripts or the project, please contact the owner of this repository.
