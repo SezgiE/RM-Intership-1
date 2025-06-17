@@ -1,4 +1,4 @@
-# RM-Intership-1
+# RM-Internship-1
 Trends in ADHD Symptoms and Heritability Estimates Over 30 Years 
 
 -Item-level and sum score analyses must be conducted in separate working directories, as output files may have identical names.
